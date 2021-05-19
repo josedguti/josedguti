@@ -1,6 +1,5 @@
 # Hi there, I'm Jose! 👋
 
----
 
 ## A little bit about me...🤔
 
