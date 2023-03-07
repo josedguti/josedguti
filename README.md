@@ -3,7 +3,7 @@
 
 ## A little bit about me...🤔
 
-Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using JavaScript as main Programming Language and using MongoDB/Express.js/React.js/Node.js (MERN) as my main technical stack. Background in customer service and IT support. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-Stack Developer.
+Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using JavaScript as main Programming Language and using MongoDB/Express.js/React.js/Node.js (MERN) as my main technical stack. Background in customer service and IT support. Doing a lot of backend work nowadays, mainly around GraphQL and MongoDB in Node.js
 
 
 ---
