@@ -3,7 +3,8 @@
 
 ## A little bit about me...🤔
 
-I'm a Software Engineer with a background in customer service and IT Support. I have hands-on experience with front-end development technologies such as HTML, CSS (Bootstrap and TailwindCSS), JavaScript, React.js, Next.js as well as working with databases such as MySQL, PostgreSQL and MongoDB. Worked as well with back-end technologies such as Node.js and Ruby on Rails.
+Full Stack Developer with hands-on experience designing, developing, and implementing applications and solutions using JavaScript as main Programming Language and using MongoDB/Express.js/React.js/Node.js (MERN) as my main technical stack. Background in customer service and IT support. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-Stack Developer.
+
 
 ---
 
